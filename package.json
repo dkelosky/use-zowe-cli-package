@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "tsc --pretty",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
